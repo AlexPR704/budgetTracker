@@ -11,7 +11,7 @@ SO THAT my account balance is accurate when I am traveling
 
 # Getting Started
 1. Link to github: https://github.com/AlexPR704/budgetTracker;
-2. Link to app: ;
+2. Link to app: https://warm-falls-71848.herokuapp.com/;
 
 # Instructions
 Follow the link above to visit the deployed site.
